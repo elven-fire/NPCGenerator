@@ -1,0 +1,8 @@
+NPC_generator.py
+================
+
+An Elven Fire utility script that randomly generates 30 non-player characters.
+
+NPCGenerator is built with:
+  Python 3.3.4
+  elvenfire 1.1.0
